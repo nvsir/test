@@ -1,0 +1,7 @@
+sudo tcpdump -n–i eth0
+
+sudo ufw status  命令查看开启防火墙后的状态,active 开启 ,inactive 关闭
+
+sudo ufw disable 命令来关闭防火墙
+
+sudo ufw enable 开放防火墙
